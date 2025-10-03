@@ -1,4 +1,4 @@
-# Novo Nordisk Facts vs ESRS Requirements (Pilot Task)
+# Novo Nordisk Facts vs ESRS Requirements
 
 ## Fact 1 – Net Zero Commitment
 - **Report Claim**: Novo Nordisk commits to *net zero by 2045* and *33% Scope 3 reduction by 2033*.  
@@ -10,7 +10,6 @@
   - `∀c. NetZeroCommitment(c, y) → y ≤ 2050`
   - `∀c. Scope3ReductionTarget(c, p, y) → (p ≥ 30 ∧ y ≤ 2035)`
 
----
 
 ## Fact 2 – Renewable Energy Use
 - **Report Claim**: Novo Nordisk discloses renewable energy use, but breakdown is *partial*.  
@@ -21,7 +20,6 @@
   - `∀c, y. UsesRenewableEnergy(c, p, y) → p ≥ 90`
   - *Note*: Status is ⚠️ Partial → means disclosure incomplete.
 
----
 
 ## Fact 3 – Workforce Disclosures
 - **Report Claim**: Novo Nordisk discloses **diversity, pay equity, health & safety, and training** for its workforce.  

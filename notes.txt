@@ -1,0 +1,7 @@
+COMMENTS
+
+break downs:
+    - complete: make sure you cover all of the features (for a car security we need to look at the engine, brakes, seat belt....)
+    - actions are simple enough to be believe (actions in lean, axions)
+
+if we cannot prove how something is done, we can try to fiond another resource that makes the same claim
